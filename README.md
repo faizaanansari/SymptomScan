@@ -79,12 +79,6 @@
 
 ---
 
-### 📸 Screenshots
-
-(Add a few screenshots or GIFs here to showcase your app UI and predictions.)
-
----
-
 ### 📚 Future Enhancements
 
 * Include more diseases and larger datasets.
@@ -104,3 +98,4 @@
 ### 🏷️ Skills Demonstrated
 
 Python · Machine Learning · Model Training · Predictive Modeling · Streamlit · Data Preprocessing
+
